@@ -1,0 +1,764 @@
+Uri: https://draxelgame.com/
+File Name: C:\Downloaded Web Sites\draxelgame.com\index.htm
+Content Type: text/html
+
+Uri: https://draxelgame.com/characters
+File Name: C:\Downloaded Web Sites\draxelgame.com\characters.html
+Content Type: text/html
+
+Uri: https://draxelgame.com/characters/fumiko
+File Name: C:\Downloaded Web Sites\draxelgame.com\characters\fumiko.html
+Content Type: text/html
+
+Uri: https://draxelgame.com/characters/hana
+File Name: C:\Downloaded Web Sites\draxelgame.com\characters\hana.html
+Content Type: text/html
+
+Uri: https://draxelgame.com/characters/haruki
+File Name: C:\Downloaded Web Sites\draxelgame.com\characters\haruki.html
+Content Type: text/html
+
+Uri: https://draxelgame.com/characters/kaito
+File Name: C:\Downloaded Web Sites\draxelgame.com\characters\kaito.html
+Content Type: text/html
+
+Uri: https://draxelgame.com/characters/ren
+File Name: C:\Downloaded Web Sites\draxelgame.com\characters\ren.html
+Content Type: text/html
+
+Uri: https://draxelgame.com/characters/sora
+File Name: C:\Downloaded Web Sites\draxelgame.com\characters\sora.html
+Content Type: text/html
+
+Uri: https://draxelgame.com/characters/yuki
+File Name: C:\Downloaded Web Sites\draxelgame.com\characters\yuki.html
+Content Type: text/html
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-fumiko.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-79
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-fumiko.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-80
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-fumiko.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-81
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-fumiko.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-82
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-fumiko.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-9
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-fumiko.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-76
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-fumiko.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-77
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-fumiko.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-78
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-hana.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-58
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-hana.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-59
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-hana.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-60
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-hana.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-61
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-hana.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-6
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-hana.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-55
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-hana.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-56
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-hana.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-57
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-haruki.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-100
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-haruki.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-101
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-haruki.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-102
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-haruki.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-103
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-haruki.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-12
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-haruki.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-97
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-haruki.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-98
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-haruki.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-99
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-kaito.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-86
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-kaito.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-87
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-kaito.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-88
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-kaito.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-89
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-kaito.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-10
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-kaito.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-83
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-kaito.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-84
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-kaito.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-85
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-ren.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-72
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-ren.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-73
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-ren.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-74
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-ren.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-75
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-ren.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-8
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-ren.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-69
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-ren.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-70
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-ren.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-71
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-sora.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-93
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-sora.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-94
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-sora.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-95
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-sora.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-96
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-sora.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-11
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-sora.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-90
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-sora.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-91
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-sora.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-92
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-yuki.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-65
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-yuki.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-66
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-yuki.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-67
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-yuki.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-68
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-yuki.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-7
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-yuki.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-62
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-yuki.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-63
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fcharacter-yuki.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-64
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fgameplay-petal-echo.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-51
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fgameplay-petal-echo.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-52
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fgameplay-petal-echo.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-53
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fgameplay-petal-echo.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-54
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fgameplay-petal-echo.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-5
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fgameplay-petal-echo.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-48
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fgameplay-petal-echo.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-49
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fgameplay-petal-echo.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-50
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fhero-hana-scooter.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-16
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fhero-hana-scooter.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-17
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fhero-hana-scooter.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-18
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fhero-hana-scooter.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-19
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fhero-hana-scooter.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fhero-hana-scooter.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-13
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fhero-hana-scooter.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-14
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fhero-hana-scooter.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-15
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-fumiko.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-132
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-fumiko.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-133
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-fumiko.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-134
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-fumiko.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-135
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-fumiko.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-128
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-fumiko.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-129
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-fumiko.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-130
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-fumiko.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-131
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-hana.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-108
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-hana.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-109
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-hana.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-110
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-hana.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-111
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-hana.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-104
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-hana.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-105
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-hana.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-106
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-hana.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-107
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-haruki.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-156
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-haruki.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-157
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-haruki.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-158
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-haruki.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-159
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-haruki.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-152
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-haruki.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-153
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-haruki.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-154
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-haruki.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-155
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-kaito.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-140
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-kaito.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-141
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-kaito.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-142
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-kaito.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-143
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-kaito.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-136
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-kaito.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-137
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-kaito.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-138
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-kaito.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-139
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-ren.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-124
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-ren.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-125
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-ren.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-126
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-ren.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-127
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-ren.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-120
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-ren.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-121
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-ren.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-122
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-ren.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-123
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-sora.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-148
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-sora.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-149
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-sora.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-150
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-sora.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-151
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-sora.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-144
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-sora.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-145
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-sora.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-146
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-sora.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-147
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-yuki.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-116
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-yuki.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-117
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-yuki.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-118
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-yuki.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-119
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-yuki.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-112
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-yuki.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-113
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-yuki.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-114
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fscene-yuki.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-115
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-hillside-shrine.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-37
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-hillside-shrine.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-38
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-hillside-shrine.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-39
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-hillside-shrine.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-40
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-hillside-shrine.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-3
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-hillside-shrine.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-34
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-hillside-shrine.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-35
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-hillside-shrine.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-36
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-sakura-riverwalk.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-23
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-sakura-riverwalk.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-24
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-sakura-riverwalk.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-25
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-sakura-riverwalk.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-26
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-sakura-riverwalk.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-1
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-sakura-riverwalk.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-20
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-sakura-riverwalk.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-21
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-sakura-riverwalk.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-22
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-seaside.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-44
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-seaside.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-45
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-seaside.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-46
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-seaside.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-47
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-seaside.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-4
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-seaside.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-41
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-seaside.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-42
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-seaside.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-43
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-shopping-street.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-30
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-shopping-street.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-31
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-shopping-street.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-32
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-shopping-street.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-33
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-shopping-street.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-2
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-shopping-street.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-27
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-shopping-street.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-28
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/image?url=%2Fimages%2Fworld-shopping-street.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\image-29
+Content Type: image/jpeg
+
+Uri: https://draxelgame.com/_next/static/chunks/15aa5cb0ea502276.js
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\static\chunks\15aa5cb0ea502276.js
+Content Type: text/javascript
+
+Uri: https://draxelgame.com/_next/static/chunks/5ad206fcf1485ff8.js
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\static\chunks\5ad206fcf1485ff8.js
+Content Type: text/javascript
+
+Uri: https://draxelgame.com/_next/static/chunks/90841f46c6563798.css
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\static\chunks\90841f46c6563798.css
+Content Type: text/css
+
+Uri: https://draxelgame.com/_next/static/chunks/a6dad97d9634a72d.js
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\static\chunks\a6dad97d9634a72d.js
+Content Type: text/javascript
+
+Uri: https://draxelgame.com/_next/static/chunks/b0f8128284e04294.js
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\static\chunks\b0f8128284e04294.js
+Content Type: text/javascript
+
+Uri: https://draxelgame.com/_next/static/chunks/b74ffbb0d18368ab.js
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\static\chunks\b74ffbb0d18368ab.js
+Content Type: text/javascript
+
+Uri: https://draxelgame.com/_next/static/chunks/bc10094d793b40b3.js
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\static\chunks\bc10094d793b40b3.js
+Content Type: text/javascript
+
+Uri: https://draxelgame.com/_next/static/chunks/c835ef42487ce2c8.js
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\static\chunks\c835ef42487ce2c8.js
+Content Type: text/javascript
+
+Uri: https://draxelgame.com/_next/static/chunks/ddd856d32d5cf1f4.js
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\static\chunks\ddd856d32d5cf1f4.js
+Content Type: text/javascript
+
+Uri: https://draxelgame.com/_next/static/chunks/def3bb85d8feb977.js
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\static\chunks\def3bb85d8feb977.js
+Content Type: text/javascript
+
+Uri: https://draxelgame.com/_next/static/chunks/f19e4129d752cb5c.js
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\static\chunks\f19e4129d752cb5c.js
+Content Type: text/javascript
+
+Uri: https://draxelgame.com/_next/static/chunks/f6eaaba4f85b9262.js
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\static\chunks\f6eaaba4f85b9262.js
+Content Type: text/javascript
+
+Uri: https://draxelgame.com/_next/static/chunks/turbopack-96ca2dd4eb2bf643.js
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\static\chunks\turbopack-96ca2dd4eb2bf643.js
+Content Type: text/javascript
+
+Uri: https://draxelgame.com/_next/static/media/14e23f9b59180572-s.9c448f3c.woff2
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\static\media\14e23f9b59180572-s.9c448f3c.woff2
+Content Type: font/woff2
+
+Uri: https://draxelgame.com/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\static\media\2a65768255d6b625-s.p.d19752fb.woff2
+Content Type: font/woff2
+
+Uri: https://draxelgame.com/_next/static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\static\media\5c285b27cdda1fe8-s.p.a62025f2.woff2
+Content Type: font/woff2
+
+Uri: https://draxelgame.com/_next/static/media/65c558afe41e89d6-s.e2c8389a.woff2
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\static\media\65c558afe41e89d6-s.e2c8389a.woff2
+Content Type: font/woff2
+
+Uri: https://draxelgame.com/_next/static/media/b49b0d9b851e4899-s.4f3fa681.woff2
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\static\media\b49b0d9b851e4899-s.4f3fa681.woff2
+Content Type: font/woff2
+
+Uri: https://draxelgame.com/_next/static/media/c3cb240f9c892514-s.d8e4bce2.woff2
+File Name: C:\Downloaded Web Sites\draxelgame.com\_next\static\media\c3cb240f9c892514-s.d8e4bce2.woff2
+Content Type: font/woff2
+
+Uri: https://play.draxelgame.com/versions/v3/CherryBlossomGirl.exe
+File Name: C:\Downloaded Web Sites\draxelgame.com\versions\v3\CherryBlossomGirl.exe
+Content Type: application/octet-stream
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v67327c56f0bb4ef8b305cae61679db8f1769101564043
+File Name: C:\Downloaded Web Sites\draxelgame.com\beacon.min.js\v67327c56f0bb4ef8b305cae61679db8f1769101564043
+Content Type: text/javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516
+File Name: C:\Downloaded Web Sites\draxelgame.com\beacon.min.js\v8c78df7c7c0f484497ecbca7046644da1771523124516
+Content Type: text/javascript
+
